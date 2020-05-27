@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barcode recognition", "Barcode recognition\Barcode recognition.csproj", "{EB0D0C3A-BA4E-437E-90DE-96F244FF8204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBarcodeRecognition", "UnitTestBarcodeRecognition\UnitTestBarcodeRecognition.csproj", "{0826B341-6043-4450-AAEC-7BB3EECF0E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0D0C3A-BA4E-437E-90DE-96F244FF8204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0D0C3A-BA4E-437E-90DE-96F244FF8204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0D0C3A-BA4E-437E-90DE-96F244FF8204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0D0C3A-BA4E-437E-90DE-96F244FF8204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0826B341-6043-4450-AAEC-7BB3EECF0E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0826B341-6043-4450-AAEC-7BB3EECF0E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0826B341-6043-4450-AAEC-7BB3EECF0E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0826B341-6043-4450-AAEC-7BB3EECF0E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C387FA2-2278-4BD3-831F-A88CEB465E60}
+	EndGlobalSection
+EndGlobal

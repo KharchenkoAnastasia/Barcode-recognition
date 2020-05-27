@@ -1,0 +1,20 @@
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\Barcode recognition.exe.config
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\Barcode recognition.exe
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\Barcode recognition.pdb
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\obj\Debug\Barcode_recognition.BarcodeRecognition.resources
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\obj\Debug\Barcode_recognition.Properties.Resources.resources
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\obj\Debug\Barcode recognition.csproj.GenerateResource.cache
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\obj\Debug\Barcode recognition.csproj.CoreCompileInputs.cache
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\obj\Debug\Barcode recognition.exe
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\obj\Debug\Barcode recognition.pdb
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\EntityFramework.dll
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\EntityFramework.SqlServer.dll
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\System.Data.SQLite.dll
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\EntityFramework.xml
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\EntityFramework.SqlServer.xml
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\System.Data.SQLite.xml
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\bin\Debug\System.Data.SQLite.dll.config
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\obj\Debug\Barcode recognition.csproj.CopyComplete
+D:\ИАД Курсач\Barcode recognition\Barcode recognition\obj\Debug\Barcode recognition.csprojAssemblyReference.cache

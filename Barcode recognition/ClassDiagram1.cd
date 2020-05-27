@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Barcode_recognition.WorkWithDB">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAACAAAAAAAgAAA=</HashCode>
+      <FileName>MyLibraryBarcode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barcode_recognition.InformBarcode">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>MyLibraryBarcode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barcode_recognition.BarcodeEAN">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAgAAAAAAAAAAAQAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MyLibraryBarcode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barcode_recognition.BarcodeCode">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <Members>
+      <Method Name="AppendEAN" Hidden="true" />
+      <Method Name="CalcNarrowBarWidth" Hidden="true" />
+      <Method Name="CheckEANSupplement" Hidden="true" />
+      <Method Name="CheckSupportedPixelFormat" Hidden="true" />
+      <Field Name="CODE128A" Hidden="true" />
+      <Field Name="CODE128B" Hidden="true" />
+      <Field Name="CODE128C" Hidden="true" />
+      <Field Name="CODE128START" Hidden="true" />
+      <Field Name="CODE128STOP" Hidden="true" />
+      <Method Name="FindBarcodeZones" Hidden="true" />
+      <Method Name="FindPeakWidth" Hidden="true" />
+      <Property Name="FullScanBarcodeTypes" Hidden="true" />
+      <Field Name="GAPFACTOR" Hidden="true" />
+      <Method Name="GetBarPatterns" Hidden="true" />
+      <Method Name="GetBarWidthDistribution" Hidden="true" />
+      <Method Name="GetEANFirstDigit" Hidden="true" />
+      <Method Name="getpixelbrightness" Hidden="true" />
+      <Method Name="IsWideBar" Hidden="true" />
+      <Field Name="m_bUseBarcodeZones" Hidden="true" />
+      <Field Name="m_FullScanBarcodeTypes" Hidden="true" />
+      <Field Name="MINNARROWBARCOUNT" Hidden="true" />
+      <Field Name="MINPATTERNLENGTH" Hidden="true" />
+      <Method Name="ParseCode128Pattern" Hidden="true" />
+      <Method Name="ParseCode39Pattern" Hidden="true" />
+      <Method Name="ParseEANPattern" Hidden="true" />
+      <Method Name="ReadBarcodes" Hidden="true" />
+      <Method Name="ReversePattern" Hidden="true" />
+      <Method Name="ScanPage" Hidden="true" />
+      <Field Name="STARPATTERN" Hidden="true" />
+      <Field Name="tip" Hidden="true" />
+      <Property Name="UseBarcodeZones" Hidden="true" />
+      <Method Name="ValidBars" Hidden="true" />
+      <Method Name="verticalHistogram" Hidden="true" />
+      <Field Name="WIDEFACTOR" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Barcode_recognition.BarcodeCode.BarcodeType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyLibraryBarcode.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Barcode_recognition.BarcodeCode.ScanDirection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyLibraryBarcode.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="Barcode_recognition.BarcodeCode.BarcodeZone" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyLibraryBarcode.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="Barcode_recognition.BarcodeCode.histogramResult" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MyLibraryBarcode.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAEZhAUAAqBAIAAkRAAgBAACKgIAASBUECGAAAAGCAA=</HashCode>
+      <FileName>MyLibraryBarcode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Barcode_recognition.BarcodeRecognition">
+    <Position X="2.25" Y="0.75" Width="2.25" />
+    <Members>
+      <Method Name="BarcodeRecognition" Hidden="true" />
+      <Method Name="BarcodeRecognition_Load" Hidden="true" />
+      <Field Name="button" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="download" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="recognize" Hidden="true" />
+      <Field Name="richTextBox1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>gAEAAABAAiAAACAAQACAQAACEAAAIAAABAAQAABBAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
